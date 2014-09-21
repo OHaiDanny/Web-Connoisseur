@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'AvenirLT55RomanBold';
+    src: url('avenirlt85heavy.eot');
+    src: url('avenirlt85heavy.eot') format('embedded-opentype'),
+         url('avenirlt85heavy.woff2') format('woff2'),
+         url('avenirlt85heavy.woff') format('woff'),
+         url('avenirlt85heavy.ttf') format('truetype'),
+         url('avenirlt85heavy.svg#AvenirLT55RomanBold') format('svg');
+}
